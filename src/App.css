@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+body{
+  background-color: black;  
+  /* background-image: url("https://ksac.kiit.ac.in/wp-content/uploads/2021/02/10-Ways-To-Cope-Up-With-Online-Classes-scaled.jpg");
+  position: fixed;
+  min-width:100% ;
+  min-height:100% ;
+  background-size: cover;
+  background-position: center; */
+}
+
+.bg{
+  background-image: url("https://i.dawn.com/primary/2020/12/5fc8441a1f122.jpg");
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  text-align: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+
+.cen{
+  text-align: center;
+  background-color: black;
+}
